@@ -12,7 +12,7 @@
 
 To create an iOS application that allows users to 
 
-1) Calculate the carbon foodprint of their daily food intake
+1) Calculate the carbon footprint of their daily food intake
 2) Receive suggestions for reducing the carbon footprint associated with their diet
 
 **Tech Stack:**
