@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A0F9BAA827C2E27000169C10 /* PopupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0F9BAA727C2E27000169C10 /* PopupView.swift */; };
 		C912225827C2AFFF00EB560B /* CountYourCarbsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C912225727C2AFFF00EB560B /* CountYourCarbsApp.swift */; };
 		C912225A27C2AFFF00EB560B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C912225927C2AFFF00EB560B /* ContentView.swift */; };
 		C912225C27C2B00100EB560B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C912225B27C2B00100EB560B /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A0F9BAA727C2E27000169C10 /* PopupView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PopupView.swift; sourceTree = "<group>"; };
 		C912225427C2AFFF00EB560B /* CountYourCarbs.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CountYourCarbs.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C912225727C2AFFF00EB560B /* CountYourCarbsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountYourCarbsApp.swift; sourceTree = "<group>"; };
 		C912225927C2AFFF00EB560B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				C912225727C2AFFF00EB560B /* CountYourCarbsApp.swift */,
 				C912225927C2AFFF00EB560B /* ContentView.swift */,
+				A0F9BAA727C2E27000169C10 /* PopupView.swift */,
 				C912225B27C2B00100EB560B /* Assets.xcassets */,
 				C912225D27C2B00100EB560B /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C912225A27C2AFFF00EB560B /* ContentView.swift in Sources */,
+				A0F9BAA827C2E27000169C10 /* PopupView.swift in Sources */,
 				C912225827C2AFFF00EB560B /* CountYourCarbsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
