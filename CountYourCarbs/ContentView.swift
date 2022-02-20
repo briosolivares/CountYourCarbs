@@ -9,9 +9,19 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        
+//        Text("Count Your Carbs").padding()
+        VStack{
+            
+            ZStack{
+                Image(uiImage: #imageLiteral(resourceName: "ContentView"))
+                Image(uiImage: #imageLiteral(resourceName: "logo")).offset(x:-120,y:-336)
+                
+            }
+            
+        }
     }
+    
 }
 
 struct ContentView_Previews: PreviewProvider {
