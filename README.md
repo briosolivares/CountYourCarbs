@@ -20,6 +20,7 @@ To create an iOS application that allows users to
 - [Xcode](https://developer.apple.com/xcode/)
 - [Swift UI](https://developer.apple.com/xcode/swiftui/)
 - [Figma](https://www.figma.com/)
+- [GitHub](https://www.github.com/)
 
 ## **Links**
 
